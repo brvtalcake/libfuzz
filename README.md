@@ -1,2 +1,3 @@
 # libfuzz
-Sound generation and handling in C++
+
+Sound generation and sound handling library in C
